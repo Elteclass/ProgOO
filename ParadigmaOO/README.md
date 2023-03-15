@@ -4,13 +4,13 @@
 Se denominan paradigmas de programación a las formas de clasificar los lenguajes de programación en función a sus caracteristicas.
 
 ### **Los paradigmas de programación comunes incluyen:**
-..***Imperativo** en el que el programador instruye a la máquina cómo cambiar su estado.
-..***Procedimental** que agrupa las instrucciones en procedimientos.
-..***Orientado a objetos** que agrupa las instrucciones con la parte del estado en el que operan.
-..***Declarativo** en el que el programador simplemente declara las propiedades del resultado deseado, pero no cómo calcularlo.
-..***Funcional** en el que el resultado deseado se declara como el valor de una seria de aplicaciones de función.
-..***Matemático** en el que el resultado deseado se declara como la solución de un problema de optimización.
-..***Reactivo** en el que se declara el resultado deseado con flujos de datos y a la propagación del cambio.
+..*Imperativo en el que el programador instruye a la máquina cómo cambiar su estado.
+..*Procedimental que agrupa las instrucciones en procedimientos.
+..*Orientado a objetos** que agrupa las instrucciones con la parte del estado en el que operan.
+..*Declarativo en el que el programador simplemente declara las propiedades del resultado deseado, pero no cómo calcularlo.
+..*Funcional en el que el resultado deseado se declara como el valor de una seria de aplicaciones de función.
+..*Matemático en el que el resultado deseado se declara como la solución de un problema de optimización.
+..*Reactivo en el que se declara el resultado deseado con flujos de datos y a la propagación del cambio.
 ====
 ### **PROGRAMACION ORIENTADA A OBJETOS**
 ----
