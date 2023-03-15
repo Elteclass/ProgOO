@@ -1,5 +1,5 @@
 # EL PARADIGMA DE LA PROGRAMACION ORIENTADA A OBJETOS
-## **¿Qué es paradigma en lenguajes de programación?**
+## **¿QUÉ ES PARADIGMA EN EL LENGUAJE DE PROGRAMACIÓN?**
 Se denominan paradigmas de programación a las formas de clasificar los lenguajes de programación en función a sus caracteristicas.
 
 ## **Los paradigmas de programación comunes incluyen:**
