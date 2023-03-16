@@ -54,7 +54,12 @@ Después de que la Rational Software Corporation contratara a **James Rumbaugh**
 En 1996 Rational concluyó que la abundancia de lenguajes de modelado estaba alentando la adopción de la tecnología de objetos, y para orientarse hacia un método unificado, encargaron a los Tres Amigos que desarrollaran un **"lenguaje unificado de modelado"** abierto.
 Bajo la dirección técnica de los Tres Amigos (Rumbaugh, Jacobson y Booch) fue organizado un consorcio internacional llamado **UML Partners** en 1996, el borrador de la especificación UML 1.0 de UML Partners fue propuesto a la OMG en enero de 1997. Durante el mismo mes, la UML Partners formó una Fuerza de Tarea Semántica, encabezada por **Cris Kobryn** y administrada por **Ed Eykholt**, para finalizar las semánticas de la especificación y para integrarla con otros esfuerzos de estandarización. El resultado de este trabajo, el UML 1.1, fue presentado ante la OMG en agosto de 1997 y adoptado por la OMG en noviembre de 1997.
 UML se utiliza principalmente en el desarrollo de software orientado a objetos. Los diagramas de clases son uno de los tipos de diagramas más útiles en UML, ya que trazan claramente la estructura de un sistema concreto al modelar sus clases, atributos, operaciones y relaciones entre objetos.
+Algunas herramientas para el modelado en UML:
+* Lucidchart.
+* MagicDraw.
+* Gliffy.
+* GitMind.
 
 ----
-
-//insertar diagrama
+### Propuesta de una maquina expendedora (UML)
+[![maquina.png](https://i.postimg.cc/90Lc36B4/maquina.png)](https://postimg.cc/YLL5YyZk)
