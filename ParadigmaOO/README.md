@@ -17,20 +17,24 @@ La _programación orientada a objetos_ es un paradigma de programación que part
 **Los objetos** son capaces de interactuar y modificar los valores contenidos en sus campos(estado) o atributos a través de sus métodos(comportamiento).
 
 //insertar imagen de POO//
+
 ----
 
 ## **PRIMER LENGUAJE ORIENTADO A OBJETOS**
 El concepto de POO tienen origen en **SIMULA** que es un lenguaje de programación orientada a objetos de 1962 diseñado para hacer simulaciones, creado por **Ole-Johan Dahl** y **Kristen Nygaard**, del centro de cómputo noruego de OSLO, en este centro se trabajaba en simulaciones de naves. La idea surgió al agrupar los diversos tipos de naves en diversas clases de objetos, siendo responsable cada clase de objetos de definir sus "**propios**" datos y comportamientos.
+
 ----
 
 ## **Abstracción**
 Se podría definir como las características que diferencian a un objeto de otro, esto ayuda para poder saber el comportamiento que tiene cierto elemento, por tal motivo la **abstracción** forma parte de los aspectos fundamentales en el modelo de objetos.
+
 ----
 
 ## **ENCAPSULAMIENTO**
 Encapsulación en la programación orienta a objetos consiste en almacenar y organizar en una clase las características y funcionalidades de los objetos, representandolas por medio de atributos y métodos, todo esto se logra como efecto secundario de la abstracción. El encapsulamiento garantiza la integridad de los datos que contiene un objeto y por integridad se refiere a que los datos sean correctos y esten completos, ademas evita el acceso a datos por cualquier otro medio distinto que no se haya especificado en la clase. En conclusión la **encapsulación** es de suma importancia a la hora de querer ocultar los valores o el estado de un objeto estructurados en una clase, evitando el acceso directo a ellos por parte de los clientes de una manera que podría exponer detalles de implementación ocultos.
 
 //insertar imagen de encapsulamiento
+
 ----
 
 ## **HERENCIA**
@@ -39,6 +43,7 @@ Las subclases contienen atributos y métodos que provienen de la superclase.
 Las ventajas de usar la herencia es la reutilización de código, método que permite que una parte o la totalidad de un programa se pueda ocupar en la construción de otro programa y ahorra tiempo.
 
 //insertar imagen de herencia
+
 ----
 
 # UML: DIAGRAMA DE CLASES
@@ -49,4 +54,5 @@ Bajo la dirección técnica de los Tres Amigos (Rumbaugh, Jacobson y Booch) fue 
 UML se utiliza principalmente en el desarrollo de software orientado a objetos. Los diagramas de clases son uno de los tipos de diagramas más útiles en UML, ya que trazan claramente la estructura de un sistema concreto al modelar sus clases, atributos, operaciones y relaciones entre objetos.
 
 ----
+
 //insertar diagrama
