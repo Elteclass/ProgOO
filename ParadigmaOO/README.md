@@ -16,8 +16,6 @@ Se denominan paradigmas de programación a las formas de clasificar los lenguaje
 La _programación orientada a objetos_ es un paradigma de programación que parte del concepto de **"objetos"** como base, los cuales contiene información en forma de campos y códigos en forma de métodos.
 **Los objetos** son capaces de interactuar y modificar los valores contenidos en sus campos(estado) o atributos a través de sus métodos(comportamiento).
 
-//insertar imagen de POO//
-
 ----
 
 ## **PRIMER LENGUAJE ORIENTADO A OBJETOS**
@@ -33,7 +31,11 @@ Se podría definir como las características que diferencian a un objeto de otro
 ## **ENCAPSULAMIENTO**
 Encapsulación en la programación orienta a objetos consiste en almacenar y organizar en una clase las características y funcionalidades de los objetos, representandolas por medio de atributos y métodos, todo esto se logra como efecto secundario de la abstracción. El encapsulamiento garantiza la integridad de los datos que contiene un objeto y por integridad se refiere a que los datos sean correctos y esten completos, ademas evita el acceso a datos por cualquier otro medio distinto que no se haya especificado en la clase. En conclusión la **encapsulación** es de suma importancia a la hora de querer ocultar los valores o el estado de un objeto estructurados en una clase, evitando el acceso directo a ellos por parte de los clientes de una manera que podría exponer detalles de implementación ocultos.
 
-//insertar imagen de encapsulamiento
+### Sistema sin encapsulamiento:
+[![mont-n-de-basura-aislado-desperdicios-de-la-pila-basura-de-la-pila-86931843.jpg](https://i.postimg.cc/g2WFjBLn/mont-n-de-basura-aislado-desperdicios-de-la-pila-basura-de-la-pila-86931843.jpg)](https://postimg.cc/7fmQQ9Vk)
+
+### Sistema con encapsulamiento:
+[![32996338-cuatro-contenedores-de-reciclaje-de-la-ilustraci-n-con-papel-pl-stico-vidrio-y-separaci-n-d.webp](https://i.postimg.cc/pdmZHPV8/32996338-cuatro-contenedores-de-reciclaje-de-la-ilustraci-n-con-papel-pl-stico-vidrio-y-separaci-n-d.webp)](https://postimg.cc/PLkZbswr)
 
 ----
 
