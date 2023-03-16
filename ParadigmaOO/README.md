@@ -44,7 +44,7 @@ La herencia es el mecanismo donde se crean una o varias clases a partir de una c
 Las subclases contienen atributos y métodos que provienen de la superclase.
 Las ventajas de usar la herencia es la reutilización de código, método que permite que una parte o la totalidad de un programa se pueda ocupar en la construción de otro programa y ahorra tiempo.
 
-//insertar imagen de herencia
+[![image.jpg](https://i.postimg.cc/3xvN565N/image.jpg)](https://postimg.cc/SnmkcgKb)
 
 ----
 
